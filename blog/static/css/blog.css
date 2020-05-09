@@ -1,14 +1,16 @@
 body{
-  padding-left: 15px;
+  /* padding-left: 15px; */
+  background-color: #faee3696;
 }
 
 h1 a, h2 a {
     color: #C25100;
-    font-family: 'Lobster';
+    /* font-family: 'Lobster'; */
+    font-family: 'Balsamiq Sans', cursive;
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #D32E2E;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
